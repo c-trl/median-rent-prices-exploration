@@ -7,4 +7,4 @@ In this simple exploration, I compare ZRI levels between some cities in New Jers
 
 [View the notebook here](http://nbviewer.ipython.org/github/c-trl/median-rent-prices-exploration/blob/master/zillow-data-exploration.ipynb)
 
-<small>Last updated: 1/14/15</small>
+<small>Last updated: 1/15/15</small>
