@@ -1,4 +1,4 @@
-#WIP: ZRI Exploration Exercise
+#Zillow Rent Index Exploration Exercise
 This exploration uses Zillow's Zillow Rent Index (ZRI) data to compare median rental property value levels ($ per square foot) among various locations in New Jersey.
 
 The ZRI is normalized using a 3-month moving average.  More about the methodology behind the ZRI can be found [here](http://www.zillow.com/research/zillow-rent-index-methodology-2393/).
